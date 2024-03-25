@@ -5,6 +5,7 @@ metadata:
   description: "Service saved on github."
   tags:
     - csharp
+    - github
 spec:
   type: service
   lifecycle: experimental
