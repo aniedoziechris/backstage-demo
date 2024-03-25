@@ -2,10 +2,9 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: backstage-service
-  description: "An example service."
+  description: "Service saved on github."
   tags:
-    - java
-    - spring-boot
+    - csharp
 spec:
   type: service
   lifecycle: experimental
